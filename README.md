@@ -85,7 +85,7 @@ template_doc_id = "여기에 3-1에서 복사한 템플릿 문서 ID를 붙여�
 gemini_api_key = "여기에 2-2에서 복사한 Google AI Studio API 키를 붙여넣으세요"
 
 #### 3. GCP 서비스 계정 정보 (2-1에서 다운로드한 JSON 파일 내용)
-[gcp_service_account]
+[gcp_service_account]  
 type = "service_account"  
 project_id = "your-gcp-project-id"  
 private_key_id = "your-private-key-id"  
